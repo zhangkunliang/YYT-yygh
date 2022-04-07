@@ -8,8 +8,6 @@ import java.util.Date;
 
 /**
  * Mybatis plus Handler配置类
- * @author starsea
- * @date 2022-01-20
  */
 @Component
 public class CommonMetaObjectHandler implements MetaObjectHandler {

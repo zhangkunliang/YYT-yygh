@@ -1,9 +1,6 @@
 package com.siro.yyds.enums;
 
-/**
- * @author starsea
- * @date 2022-02-08
- */
+
 public enum PaymentTypeEnum {
 
     ALIPAY(1,"支付宝"),

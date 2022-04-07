@@ -14,10 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author starsea
- * @date 2022-02-03
- */
+
 @Api(tags = "短信服务")
 @RestController
 @RequestMapping("/api/msm")

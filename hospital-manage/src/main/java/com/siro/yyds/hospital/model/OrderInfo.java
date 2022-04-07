@@ -14,7 +14,7 @@ import java.util.Date;
  * OrderInfo
  * </p>
  *
- * @author qy
+
  */
 @Data
 @ApiModel(description = "OrderInfo")

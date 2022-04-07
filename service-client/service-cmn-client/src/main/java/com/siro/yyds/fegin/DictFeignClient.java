@@ -6,8 +6,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 /**
  * 数据字典API接口
- * @author starsea
- * @date 2022-01-28
  */
 @FeignClient("service-cmn")
 public interface DictFeignClient {

@@ -2,10 +2,6 @@ package com.siro.yyds.oss.service;
 
 import org.springframework.web.multipart.MultipartFile;
 
-/**
- * @author starsea
- * @date 2022-02-05
- */
 public interface FileService {
 
     /**

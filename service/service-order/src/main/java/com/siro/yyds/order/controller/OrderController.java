@@ -16,10 +16,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;
 
-/**
- * @author starsea
- * @date 2022-02-06
- */
+
 @Api(tags = "订单接口")
 @RestController
 @RequestMapping("/admin/order/orderInfo")

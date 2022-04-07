@@ -12,10 +12,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.UUID;
 
-/**
- * @author starsea
- * @date 2022-02-05
- */
 @Service
 public class FileServiceImpl implements FileService {
 

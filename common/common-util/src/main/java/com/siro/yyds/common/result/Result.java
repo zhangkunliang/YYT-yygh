@@ -6,8 +6,6 @@ import lombok.Data;
 
 /**
  * API统一返回结果封装类
- * @author starsea
- * @date 2022-01-19
  */
 @Data
 @ApiModel(value = "全局统一返回结果")

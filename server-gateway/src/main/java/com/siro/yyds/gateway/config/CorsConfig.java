@@ -9,8 +9,6 @@ import org.springframework.web.util.pattern.PathPatternParser;
 
 /**
  * 解决跨域问题
- * @author starsea
- * @date 2022-02-01
  */
 @Configuration
 public class CorsConfig {

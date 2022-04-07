@@ -4,8 +4,6 @@ import lombok.Getter;
 
 /**
  * API统一返回结果状态信息
- * @author starsea
- * @date 2022-01-19
  */
 @Getter
 public enum ResultCodeEnum {

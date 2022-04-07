@@ -7,10 +7,6 @@ import com.siro.yyds.model.cmn.Dict;
 import com.siro.yyds.vo.cmn.DictEeVo;
 import org.springframework.beans.BeanUtils;
 
-/**
- * @author starsea
- * @date 2022-01-25
- */
 public class DictListener extends AnalysisEventListener<DictEeVo> {
 
     private DictMapper dictMapper;

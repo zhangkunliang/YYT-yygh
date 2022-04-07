@@ -11,10 +11,7 @@ import com.siro.yyds.vo.order.SignInfoVo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- * @author starsea
- * @date 2022-01-21
- */
+
 @Service
 public class HospitalSetServiceImpl extends ServiceImpl<HospitalSetMapper, HospitalSet> implements HospitalSetService {
 

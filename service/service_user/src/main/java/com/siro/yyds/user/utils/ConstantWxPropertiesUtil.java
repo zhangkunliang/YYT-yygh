@@ -6,8 +6,6 @@ import org.springframework.stereotype.Component;
 
 /**
  * 微信登录参数类
- * @author starsea
- * @date 2022-02-03
  */
 @Component
 public class ConstantWxPropertiesUtil implements InitializingBean {

@@ -12,10 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Map;
 
-/**
- * @author starsea
- * @date 2022-02-09
- */
+
 @Api(tags = "统计管理接口")
 @RestController
 @RequestMapping("/admin/statistics")

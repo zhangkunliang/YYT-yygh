@@ -1,9 +1,6 @@
 package com.siro.yyds.enums;
 
-/**
- * @author starsea
- * @date 2022-02-05
- */
+
 public enum AuthStatusEnum {
 
     NO_AUTH(0, "未认证"),

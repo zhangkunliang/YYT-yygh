@@ -7,8 +7,6 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * mq消息转换器
- * @author starsea
- * @date 2022-02-06
  */
 @Configuration
 public class MQConfig {

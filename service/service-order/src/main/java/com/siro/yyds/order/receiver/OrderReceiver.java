@@ -15,8 +15,6 @@ import java.io.IOException;
 
 /**
  * mq监听器
- * @author starsea
- * @date 2022-02-08 22:05
  */
 @Component
 public class OrderReceiver {

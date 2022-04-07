@@ -13,10 +13,7 @@ import org.springframework.web.bind.annotation.*;
 import javax.servlet.http.HttpServletRequest;
 import java.util.List;
 
-/**
- * @author starsea
- * @date 2022-02-05
- */
+
 @Api(tags = "就诊人管理接口")
 @RestController
 @RequestMapping("/api/user/patient")

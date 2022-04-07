@@ -8,8 +8,6 @@ import java.net.URL;
 
 /**
  * http请求类
- * @author starsea
- * @date 2022-01-20
  */
 @Slf4j
 public final class HttpUtil {

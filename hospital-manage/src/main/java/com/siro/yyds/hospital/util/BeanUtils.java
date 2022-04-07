@@ -11,10 +11,7 @@ import java.lang.reflect.Modifier;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * @author xubo
- * @date 2017.9.25
- */
+
 public class BeanUtils extends org.springframework.beans.BeanUtils {
 
     public static void copyBean(Object source, Object target, Class<?> editable, String... ignoreProperties)

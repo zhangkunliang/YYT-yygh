@@ -7,8 +7,6 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * @author starsea
- * @date 2022-02-03
  */
 public class RandomUtil {
 

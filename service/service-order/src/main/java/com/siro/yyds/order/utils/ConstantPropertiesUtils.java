@@ -6,8 +6,6 @@ import org.springframework.stereotype.Component;
 
 /**
  * 微信支付参数类
- * @author starsea
- * @date 2022-02-08
  */
 @Component
 public class ConstantPropertiesUtils implements InitializingBean {

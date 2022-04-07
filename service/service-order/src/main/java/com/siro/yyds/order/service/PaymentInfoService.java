@@ -6,10 +6,7 @@ import com.siro.yyds.model.order.PaymentInfo;
 
 import java.util.Map;
 
-/**
- * @author starsea
- * @date 2022-02-08
- */
+
 public interface PaymentInfoService extends IService<PaymentInfo> {
 
     /**

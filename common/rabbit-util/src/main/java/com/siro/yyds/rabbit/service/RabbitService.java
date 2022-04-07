@@ -4,10 +4,6 @@ import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- * @author starsea
- * @date 2022-02-06
- */
 @Service
 public class RabbitService {
 

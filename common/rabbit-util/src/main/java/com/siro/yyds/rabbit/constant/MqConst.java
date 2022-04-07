@@ -2,8 +2,6 @@ package com.siro.yyds.rabbit.constant;
 
 /**
  * 常量配置类
- * @author starsea
- * @date 2022-02-06
  */
 public class MqConst {
 

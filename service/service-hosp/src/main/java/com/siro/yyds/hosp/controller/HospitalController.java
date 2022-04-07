@@ -12,10 +12,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;
 
-/**
- * @author starsea
- * @date 2022-01-28
- */
+
 @Api(tags = "医院管理")
 @RestController
 @RequestMapping("/admin/hosp/hospital")

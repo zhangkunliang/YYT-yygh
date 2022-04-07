@@ -1,9 +1,6 @@
 package com.siro.yyds.enums;
 
-/**
- * @author starsea
- * @date 2022-01-28
- */
+
 public enum DictEnum {
 
     HOSTYPE("Hostype", "医院等级"),

@@ -7,10 +7,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 
 import java.util.Map;
 
-/**
- * @author starsea
- * @date 2022-02-09
- */
+
 @FeignClient(value = "service-order")
 public interface OrderFeignClient {
 

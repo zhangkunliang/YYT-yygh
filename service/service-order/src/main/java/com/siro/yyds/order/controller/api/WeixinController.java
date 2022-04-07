@@ -20,9 +20,6 @@ import java.util.Map;
  * https://pay.weixin.qq.com/wiki/doc/api/index.html
  * 取消预约，申请退款：
  * https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=9_4
- *
- * @author starsea
- * @date 2022-02-08
  */
 @Api(tags = "微信支付接口")
 @RestController

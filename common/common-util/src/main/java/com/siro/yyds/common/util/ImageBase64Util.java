@@ -8,8 +8,6 @@ import java.io.InputStream;
 
 /**
  * base64工具类
- * @author starsea
- * @date 2022-01-27
  */
 public class ImageBase64Util {
 

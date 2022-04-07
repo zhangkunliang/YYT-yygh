@@ -17,10 +17,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-/**
- * @author starsea
- * @date 2022-01-27
- */
+
 @Service
 public class DepartmentServiceImpl implements DepartmentService {
 

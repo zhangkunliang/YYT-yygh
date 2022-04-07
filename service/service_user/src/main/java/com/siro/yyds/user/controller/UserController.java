@@ -16,10 +16,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Map;
 
-/**
- * @author starsea
- * @date 2022-02-05
- */
 @Api(tags = "用户模块")
 @RestController
 @RequestMapping("/admin/user")

@@ -14,8 +14,6 @@ import org.springframework.stereotype.Component;
 
 /**
  * mq监听器
- * @author starsea
- * @date 2022-02-06
  */
 @Component
 public class SmsReceiver {

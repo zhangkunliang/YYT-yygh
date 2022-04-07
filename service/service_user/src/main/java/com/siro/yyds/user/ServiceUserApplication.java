@@ -14,9 +14,6 @@ import org.springframework.context.annotation.ComponentScan;
  * 无注册界面，第一次登录根据手机号判断系统是否存在，如果不存在则自动注册。
  * 微信扫描登录成功必须绑定手机号码，即：第一次扫描成功后绑定手机号，以后登录扫描直接登录成功。
  * 网关统一判断登录状态，如何需要登录，页面弹出登录层
- *
- * @author starsea
- * @date 2022-02-03
  */
 @SpringBootApplication
 @ComponentScan(basePackages = "com.siro.yyds")

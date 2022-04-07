@@ -9,10 +9,7 @@ import com.siro.yyds.vo.order.OrderQueryVo;
 
 import java.util.Map;
 
-/**
- * @author starsea
- * @date 2022-02-06
- */
+
 public interface OrderInfoService extends IService<OrderInfo> {
 
     /**

@@ -10,10 +10,7 @@ import com.siro.yyds.vo.user.UserInfoQueryVo;
 
 import java.util.Map;
 
-/**
- * @author starsea
- * @date 2022-02-03
- */
+
 public interface UserInfoService extends IService<UserInfo> {
 
     /**

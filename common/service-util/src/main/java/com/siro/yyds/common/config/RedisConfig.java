@@ -25,8 +25,6 @@ import java.time.Duration;
  *
  * @EnableCaching 注释触发后置处理器, 检查每一个Spring bean 的 public 方法是否存在缓存注解。
  * 如果找到这样的一个注释, 自动创建一个代理拦截方法调用和处理相应的缓存行为。
- * @author starsea
- * @date 2022-01-20
  */
 @Configuration
 @EnableCaching// 开启缓存，并配置redis缓存管理器

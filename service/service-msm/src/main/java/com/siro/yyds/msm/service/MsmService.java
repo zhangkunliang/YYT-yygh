@@ -2,10 +2,7 @@ package com.siro.yyds.msm.service;
 
 import com.siro.yyds.vo.msm.MsmVo;
 
-/**
- * @author starsea
- * @date 2022-02-03
- */
+
 public interface MsmService {
 
     /**

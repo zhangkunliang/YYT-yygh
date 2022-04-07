@@ -8,10 +8,7 @@ import org.springframework.data.domain.Page;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author starsea
- * @date 2022-01-27
- */
+
 public interface DepartmentService {
 
     /**

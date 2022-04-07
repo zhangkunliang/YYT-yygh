@@ -2,10 +2,7 @@ package com.siro.yyds.order.service;
 
 import java.util.Map;
 
-/**
- * @author starsea
- * @date 2022-02-08
- */
+
 public interface WeixinService {
 
     /**

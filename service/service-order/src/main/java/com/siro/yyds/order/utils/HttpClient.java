@@ -32,8 +32,6 @@ import java.util.Map;
 
 /**
  * http请求客户端
- * @author starsea
- * @date 2022-02-08
  */
 public class HttpClient {
 

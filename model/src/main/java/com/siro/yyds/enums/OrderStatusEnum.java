@@ -5,10 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author starsea
- * @date 2022-02-06
- */
+
 public enum OrderStatusEnum {
 
     UNPAID(0,"预约成功，待支付"),

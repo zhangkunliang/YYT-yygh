@@ -12,10 +12,7 @@ import org.springframework.web.multipart.MultipartFile;
 import javax.servlet.http.HttpServletResponse;
 import java.util.List;
 
-/**
- * @author starsea
- * @date 2022-01-24
- */
+
 @Api(tags = "数据字典管理")
 @RestController
 @RequestMapping("/admin/cmn/dict")

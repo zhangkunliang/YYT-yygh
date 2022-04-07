@@ -6,8 +6,6 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * 手机验证参数类
- * @author starsea
- * @date 2022-02-03
  */
 @Configuration
 public class ConstantPropertiesUtils implements InitializingBean{

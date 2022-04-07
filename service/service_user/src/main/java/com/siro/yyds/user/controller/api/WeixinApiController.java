@@ -27,9 +27,6 @@ import java.util.Map;
 /**
  * 微信登录官网说明：
  * https://developers.weixin.qq.com/doc/oplatform/Website_App/WeChat_Login/Wechat_Login.html
- *
- * @author starsea
- * @date 2022-02-03
  */
 @Api(tags = "微信登录")
 @Controller

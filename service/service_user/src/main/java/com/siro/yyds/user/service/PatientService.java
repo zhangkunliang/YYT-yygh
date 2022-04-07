@@ -5,10 +5,7 @@ import com.siro.yyds.model.user.Patient;
 
 import java.util.List;
 
-/**
- * @author starsea
- * @date 2022-02-05
- */
+
 public interface PatientService extends IService<Patient> {
 
     /**

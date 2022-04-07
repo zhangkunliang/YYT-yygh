@@ -10,10 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
-/**
- * @author starsea
- * @date 2022-02-05
- */
+
 @Api(tags = "oss对象存储")
 @RestController
 @RequestMapping("/api/oss/file")

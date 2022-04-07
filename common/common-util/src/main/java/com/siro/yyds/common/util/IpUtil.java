@@ -6,8 +6,6 @@ import java.net.UnknownHostException;
 
 /**
  * 获取IP工具类
- * @author starsea
- * @date 2022-02-03
  */
 public class IpUtil {
     private static final String UNKNOWN = "unknown";

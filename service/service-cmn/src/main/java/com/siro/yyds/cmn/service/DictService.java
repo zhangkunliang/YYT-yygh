@@ -7,10 +7,7 @@ import org.springframework.web.multipart.MultipartFile;
 import javax.servlet.http.HttpServletResponse;
 import java.util.List;
 
-/**
- * @author starsea
- * @date 2022-01-24
- */
+
 public interface DictService extends IService<Dict> {
     /**
      * 根据数据id查询子数据列表

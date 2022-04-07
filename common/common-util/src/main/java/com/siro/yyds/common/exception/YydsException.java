@@ -7,8 +7,6 @@ import lombok.Data;
 
 /**
  * 自定义全局异常
- * @author starsea
- * @date 2022-01-19
  */
 @Data
 @ApiModel(value = "自定义全局异常类")

@@ -7,10 +7,7 @@ import org.springframework.data.domain.Page;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author starsea
- * @date 2022-01-26
- */
+
 public interface HospitalService {
     /**
      * 保存医院的基本信息
